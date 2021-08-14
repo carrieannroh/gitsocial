@@ -35,7 +35,7 @@
 <!-- links to your social media accounts -->
 <!-- update these accordingly -->
 
-[1]: http://www.twitter.com/carlsednaoui
+[1]: http://www.twitter.com/carrieannroh
 [2]: http://www.facebook.com/sednaoui
 [3]: https://plus.google.com/+CarlSednaoui
 [4]: http://carlsed.tumblr.com
